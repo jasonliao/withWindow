@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 import KeyStore from './libs/KeyStore'
-import spyProperies from './lib/spyProperies'
+import spyProperies from './libs/spyProperties'
 
 const ks = new KeyStore()
 
