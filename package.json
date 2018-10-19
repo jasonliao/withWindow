@@ -1,0 +1,9 @@
+{
+  "name": "withWindow",
+  "version": "1.0.0",
+  "description": "A higher-order components can spy window properties",
+  "main": "index.js",
+  "repository": "https://github.com/jasonliao/withWindow.git",
+  "author": "jasonliao <jasonliao94@gmail.com>",
+  "license": "MIT"
+}
