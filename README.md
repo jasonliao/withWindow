@@ -4,7 +4,7 @@ A higher-order components can spy window properties
 
 ## Usage
 
-```
+```js
 import React from 'react'
 import withWindow from 'with-window'
 
